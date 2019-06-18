@@ -1,0 +1,29 @@
+/* table */
+table {
+  width: 400px;
+}
+
+.single-header {
+  align-items: center;
+  display: flex;
+}
+
+.table-bold-item {
+  font-weight: bold;
+}
+.table-headings {
+  display: flex;
+}
+
+.table-quarter-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+
+/* .list-team-image-name {
+  display: flex;
+  flex-direction: column;
+} */
