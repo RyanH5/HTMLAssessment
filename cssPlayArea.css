@@ -1,0 +1,17 @@
+p {
+  font-family: cursive; 
+  text-decoration: underline;
+}
+
+h1 {
+  color: red;
+}
+
+.myCustomClass {
+  color: red;
+  background-color: green;
+}
+
+ul li {
+  color: purple;
+}

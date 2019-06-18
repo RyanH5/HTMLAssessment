@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+}
+
+.monkPoo {
+  font-size: 40px;
+}
+
+#monkey {
+  color: aqua;
+}
+
+#listOne {
+  font-weight: bold;
+}
+
+ul#listOne > li:hover {
+  color: orange;
+}
